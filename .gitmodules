@@ -1,0 +1,6 @@
+[submodule "multi-player-app-ai"]
+	path = multi-player-app-ai
+	url = git@github.com:sshedbalkar/multi-player-app-ai.git
+[submodule "mp-cache"]
+	path = mp-cache
+	url = git@github.com:sshedbalkar/mp-cache.git
